@@ -6,7 +6,7 @@ Created on Tue Jun 21 22:01:15 2022
 metric mm, MPa, kN, kNm
 imperial inch, psi, kips, kip_ft
 
-@author: agus
+@author: agus daud
 """
 # %config InlineBackend.figure_formats = ['svg']
 import pandas as pd
